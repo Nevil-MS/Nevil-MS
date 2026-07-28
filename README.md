@@ -30,7 +30,7 @@ This GitHub is my learning journal. Every repository here represents something I
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" />
 </p>
 
 <p align="center">
