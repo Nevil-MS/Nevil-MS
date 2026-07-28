@@ -41,20 +41,6 @@ Python • scikit-learn • Pandas • NumPy • Matplotlib • Jupyter
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nevil-MS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevil-MS&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Nevil-MS&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
 <a href="https://www.linkedin.com/in/nevil-ms-147982326/">
 LinkedIn
