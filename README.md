@@ -49,9 +49,6 @@ LinkedIn
 </a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nevil-MS&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Profile Visitors" />
-</p>
 
 <p align="center">
 <i>"Learning by building, one project at a time."</i>
