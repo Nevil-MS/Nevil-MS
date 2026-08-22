@@ -3,16 +3,18 @@
 <p align="center">
 Computer Science Student from Kerala 🇮🇳
 <br>
-Exploring the intersection of Machine Learning and Biology
+Interested in building things, learning by doing, and exploring ideas that catch my curiosity.
 </p>
 
 ---
 
 ## About Me
 
-I enjoy learning by building projects, reading research papers, and following interesting questions wherever they lead.
+I'm a Computer Science student who enjoys learning by building projects and experimenting with things that interest me.
 
-Lately, I've been fascinated by the intersection of machine learning and biology. My long-term goal is to apply ML to problems in bioinformatics and healthcare.
+I'm particularly interested in programming, machine learning, data, and understanding how software can be used to solve interesting real-world problems.
+
+I'm also curious about biology and scientific applications of computing, which is something I'm exploring alongside my broader interests in CS.
 
 This GitHub is my learning journal. Every repository here represents something I've explored, built, or learned.
 
@@ -20,10 +22,10 @@ This GitHub is my learning journal. Every repository here represents something I
 
 ## Currently Learning
 
-- 🧬 Bioinformatics
+- 💻 Computer Science & Software Development
 - 🤖 Applied Machine Learning
-- 📄 Reproducing classical ML papers
 - 📊 Data Analysis
+- 🧪 Exploring computational applications in science
 
 ---
 
@@ -48,7 +50,6 @@ This GitHub is my learning journal. Every repository here represents something I
 LinkedIn
 </a>
 </p>
-
 
 <p align="center">
 <i>"Learning by building, one project at a time."</i>
